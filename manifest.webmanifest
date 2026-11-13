@@ -1,0 +1,13 @@
+{
+  "name": "Anchor",
+  "short_name": "Anchor",
+  "description": "One thing at a time. Visible time. Soft resets.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14161a",
+  "theme_color": "#14161a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
